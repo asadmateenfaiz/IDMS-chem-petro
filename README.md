@@ -4,7 +4,7 @@ A full-stack MERN application designed as an Inventory Data Management System (I
 
 ## 🖼️ Screenshots & Demo
 
-*(This is where you would add a GIF or screenshots of the application in action. Based on the code, you could show the Dashboard, the Data Management table, and the Theming options.)*
+
 
 ## ✨ Key Features
 
