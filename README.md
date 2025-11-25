@@ -2,8 +2,9 @@
 
 A full-stack MERN application designed as an Inventory Data Management System (IDMS) for the chemical and petrochemical industry. It features a secure, token-based authentication system, a dynamic dashboard for data visualization, comprehensive data management, and a powerful comparative analysis tool.
 
-## 🖼️ Screenshots & Demo
+## 🖼️ Screenshot & Demo
 
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/4bcd5fdf-2df5-4ec8-a4b9-ce676979bc59" />
 
 
 ## ✨ Key Features
