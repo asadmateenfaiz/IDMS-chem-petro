@@ -93,7 +93,6 @@ JWT_SECRET=your_super_secret_key_here
 
 ### 3\. Database Seeding (Optional, but Recommended)
 
-To populate your database with 150 realistic, randomly-generated data entries, run the seeder script.
 
 ```bash
 # From the /backend directory
